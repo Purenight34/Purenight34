@@ -8,7 +8,7 @@
 
 최신 프로젝트가 위에 오도록 정리합니다.
 
-### DunRaRi
+### DunRaRi(틈틈이 하는 중)
 **Unreal Engine · C++**
 
 <!-- 
@@ -31,6 +31,13 @@
 
 ---
 
+### 이터널리턴 DPS
+**Python, C++**
+개인 플레이용 터널턴 dps 계산기
+
+---
+
+
 ### Unity Team Project
 **Unity 제작, 2023 완**
 
@@ -52,7 +59,7 @@ Unity 기반 팀 프로젝트입니다.
 ---
 
 ### Card & Gun
-**Unity 제작, 2023 완**
+**Unity 제작, 2023 완, 언젠간 리워크 목표**
 
 <!--
 <img src="./assets/projects/card-and-gun/preview.gif" width="720" />
@@ -85,7 +92,7 @@ Unity 기반 팀 프로젝트입니다.
 
 팀 단위 스터디가 아닌, 개인 메모와 기록 용으로 만들어놓은 Repo입니다.
 
-<!-- 데이터 스트럭쳐 git 링크 -->
+[Repository](https://github.com/Purenight34/Study_Personal)
 
 ---
 
@@ -97,9 +104,9 @@ Unity 기반 팀 프로젝트입니다.
 - Unreal Engine
 
 **Experience**
+- Python
 - C#
 - Unity
-- Python
 
 ### 관련 링크
 
