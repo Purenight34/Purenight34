@@ -33,7 +33,10 @@
 ### SSAFY 프로젝트
 바이브 코딩을 섞어 SSAFY에서 진행하는 팀 프로젝트 Repo입니다.
 [반응형 웹, 시각화지도 구현, 배포](https://github.com/Purenight34/ODEGO-netlify)
+<details>
+<summary>private</summary>
 [API 호출 연습](https://lab.ssafy.com/slaehrnt/pjt02) - private
+</details>
 ---
 
 ### 이터널리턴 DPS
@@ -89,9 +92,14 @@ Unity 기반 팀 프로젝트입니다.
 
 ### Algorithm & Data Structure Study
 알고리즘을 의사코드로 작성하여 문제 제출하고 각자 풀어보는 Study입니다. 진행을 맡고 있습니다.
-[Repository](https://github.com/Purenight34/Study)
+[Repository](https://github.com/Purenight34/Study)<br>
+
+<details>
+<summary>private</summary>
 문제 풀이 위주의 Study입니다. 
 [Repository](https://github.com/GrayBoxTool/DeepBlueSea) - private
+</details>
+
 
 ### Personal Study
 팀 단위 스터디가 아닌, 개인 메모와 기록 용으로 만들어놓은 Repo입니다.
