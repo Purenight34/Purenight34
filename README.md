@@ -39,9 +39,10 @@
 </details>
 ---
 
-### 이터널리턴 DPS
+### 이터널리턴 DPS 계산기
 **Python, C++**
 개인 플레이용 터널턴 dps 계산기
+[DPS계산기](https://github.com/Purenight34/ER_DPS)
 
 ---
 
