@@ -1,5 +1,5 @@
 # Purenight34
-
+## 아직 꾸미는 중...
 C++과 Unreal Engine을 중심으로 게임 클라이언트 개발자를 지망하고 있습니다.
 
 **Main** · C++ / Unreal Engine<br />
